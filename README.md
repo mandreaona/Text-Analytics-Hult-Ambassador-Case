@@ -1,3 +1,3 @@
 # Text Analytics Hult Ambassador Case
 
-Text Analytics ans NLP Project @ Hult International Business School
+Text Analytics and NLP Project @ Hult International Business School
